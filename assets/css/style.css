@@ -526,12 +526,18 @@ section {
 --------------------------------------------------------------*/
 
 .gallery .myPics {
-  height: 500px;
-  position: relative;
-  margin: 0 auto;
+  height: auto;
+  max-width: 100%;
 }
 
+.carousel {
+  width:550px;
+  height:550px;
+}
 
+.item{
+  position: relative;
+}
 
 /*--------------------------------------------------------------
 # Contact
