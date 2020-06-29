@@ -12,13 +12,13 @@ License: https://bootstrapmade.com/license/
 # The portfolio site is completed as per Coursera guidlines.
 
 # 1. w3 validator compliant (No errors or warnings)
-![Screenshot](assets/img/validator1.jpg)
-![Screenshot](assets/img/validator2.jpg)
+![Screenshot](/assets/img/validator1.jpg)
+![Screenshot](/assets/img/validator2.jpg)
 
 # 2. Responsive site (The site has a unique look/layout for each of the views)
-For Desktop Mode - ![Screenshot](assets/img/responsive1.jpg)
-For Tablet Mode - ![Screenshot](assets/img/responsive2.jpg)
-For Smartphone Mode - ![Screenshot](assets/img/responsive3.jpg)
+For Desktop Mode - ![Screenshot](/assets/img/responsive1.jpg)
+For Tablet Mode - ![Screenshot](/assets/img/responsive2.jpg)
+For Smartphone Mode - ![Screenshot](/assets/img/responsive3.jpg)
 
 # 3. Well-styled (CSS files are included)
 Main CSS File - (assets/css/style.css)
